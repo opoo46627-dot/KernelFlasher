@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/github/release/fatalcoder524/KernelFlasher)](https://GitHub.com/fatalcoder524/KernelFlasher/releases/) 
+[![GitHub 7sher)](https://GitHub.com/fatalcoder524/KernelFlasher/releases/) 
 [![Github all releases](https://img.shields.io/github/downloads/fatalcoder524/KernelFlasher/total)](https://GitHub.com/fatalcoder524/KernelFlasher/releases/)
 
 # Kernel Flasher
